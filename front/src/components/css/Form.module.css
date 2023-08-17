@@ -1,0 +1,48 @@
+.btn,
+.disabled {
+  display: block;
+  width: 357px;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 10px;
+
+  color: white;
+}
+
+.btn {
+  background-color: darkviolet;
+  cursor: pointer;
+}
+
+.disabled {
+  background-color: rgba(148, 0, 211, 0.5);
+}
+
+.sDiv {
+  background-color: yellow;
+  width: 370px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 25px;
+  color: black;
+  margin-top: 40px;
+}
+
+.input1,
+.input2 {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-top: 10px;
+}
+
+.input1 {
+  display: block;
+  width: 345px;
+}
+
+.input2 {
+  width: 100px;
+  margin-right: 10px;
+}

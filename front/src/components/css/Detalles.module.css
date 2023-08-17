@@ -1,0 +1,30 @@
+.sDiv {
+  display: flex;
+  justify-content: space-between;
+  background-color: yellow;
+  width: 480px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 35px;
+  color: black;
+  margin-top: 40px;
+}
+
+.img {
+  width: 40%;
+  border-radius: 50%;
+  margin: 0;
+}
+
+.btn {
+  color: white;
+  background-color: black;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+  outline: 1px solid white;
+  align-self: flex-end;
+  display: block;
+  cursor: pointer;
+}

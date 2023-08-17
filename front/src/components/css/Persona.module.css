@@ -1,0 +1,21 @@
+h5 {
+  color: green;
+}
+
+.nombre {
+  color: red;
+}
+
+#apellido {
+  color: blue;
+}
+
+.btn{
+  color: white;
+  background-color: black;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  outline: 1px solid white;
+  cursor: pointer;
+}

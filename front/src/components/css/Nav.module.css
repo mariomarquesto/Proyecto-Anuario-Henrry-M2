@@ -1,0 +1,25 @@
+nav {
+  background-color: black;
+  color: white;
+}
+
+nav span {
+  margin: 0 100px 0 30px;
+}
+
+nav span a {
+  color: white;
+  padding: 10px;
+  font-size: 17px;
+  border-radius: 5px;
+  outline: 1px solid white;
+  margin: 0 5px 0 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.img {
+  width: 15%;
+}

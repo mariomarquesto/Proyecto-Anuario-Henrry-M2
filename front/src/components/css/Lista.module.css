@@ -1,0 +1,61 @@
+.grilla {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  justify-content: center;
+  gap: 15px;
+}
+
+.h3 {
+  color: lightgrey;
+}
+
+.filtros {
+  background-color: lightgrey;
+  padding: 10px;
+  font-size: 17px;
+  border: none;
+  outline: 1px solid black;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+.filtros option:checked {
+  background-color: black;
+  color: yellow;
+}
+
+.filtros option:hover {
+  background-color: yellow;
+  color: black;
+}
+
+.fLabel {
+  color: white;
+  font-size: 17px;
+}
+
+.fSpan {
+  display: flex;
+  flex-direction: column;
+  min-width: 18%;
+}
+
+.fDiv {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+
+.fBtn{
+  background-color: lightgrey;
+  padding: 10px;
+  font-size: 17px;
+  border-radius: 5px;
+  border: none;
+  outline: 1px solid black;
+  margin: 0 5px 0 5px;
+  cursor: pointer;
+}

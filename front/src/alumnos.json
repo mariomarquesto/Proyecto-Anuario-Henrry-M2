@@ -1,0 +1,268 @@
+[
+  {
+    "nombre": "Candela",
+    "apellido": "Yarossi",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Buenos Aires",
+      "ciudad": "Mar del Plata"
+    },
+    "contacto": "https://www.linkedin.com/in/candela-yarossi/",
+    "mensaje": "..."
+  },
+  {
+    "nombre": "Diego",
+    "apellido": "Denegri",
+    "pais": "Perú",
+    "localizacion": { "pais": "Perú", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "No pain No Gain"
+  },
+  {
+    "nombre": "Jhonattan",
+    "apellido": "Escorihuela",
+    "localizacion": { "pais": "Colombia", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Los Terricolas!!"
+  },
+
+  {
+    "nombre": "Guillermo",
+    "apellido": "Vallejos",
+    "localizacion": { "pais": "Argentina", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Nos vamo' a Filipinas!"
+  },
+  {
+    "nombre": "Franco Adolfo",
+    "apellido": "Bottaro",
+    "localizacion": { "pais": "China", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Nos ve"
+  },
+
+  {
+    "nombre": "Mario",
+    "apellido": "Marquestó",
+    "localizacion": { "pais": "Argentina", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "El Loco Mario!"
+  },
+
+  {
+    "nombre": "Joel",
+    "apellido": "Lopez",
+    "localizacion": { "pais": "Venezuela", "estado": "", "ciudad": "" },
+    "contacto": "https://www.linkedin.com/in/buhonocturno",
+    "mensaje": "Buhos Nocturnos"
+  },
+  {
+    "nombre": "Dario",
+    "apellido": "Gonzalez",
+    "localizacion": { "pais": "Argentina", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "undefined"
+  },
+  {
+    "nombre": "Andres",
+    "apellido": "Cabezas Leiva",
+    "localizacion": { "pais": "Colombia", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "NaN"
+  },
+  {
+    "nombre": "John",
+    "apellido": "Gonzalez",
+    "localizacion": { "pais": "Colombia", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "You shall NOT pass!!!"
+  },
+  {
+    "nombre": "Angel",
+    "apellido": "Ronda",
+    "localizacion": { "pais": "Perú", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Patatita"
+  },
+  {
+    "nombre": "Genaro",
+    "apellido": "Ricci",
+    "localizacion": { "pais": "Argentina", "estado": "", "ciudad": "" },
+    "contacto": "https://www.linkedin.com/in/genaro-ricci-bustos-b5a543256",
+    "mensaje": "Se puede gente se puede!!!"
+  },
+
+  {
+    "nombre": "David",
+    "apellido": "Aguilera",
+    "localizacion": { "pais": "Colombia", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "$$$$"
+  },
+  {
+    "nombre": "Miguel Ángel",
+    "apellido": "Rodriguez",
+    "localizacion": { "pais": "Colombia", "estado": "", "ciudad": "" },
+    "contacto": "https://www.linkedin.com/in/miguel-%C3%A1ngel-rodriguez-pulgarin-b51680206",
+    "mensaje": "la vida es bella disfrutala, la vida es ardua aprenda"
+  },
+  {
+    "nombre": "Leonardo",
+    "apellido": "Risco",
+    "localizacion": { "pais": "Peru", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Null"
+  },
+
+  {
+    "nombre": "Julian",
+    "apellido": "Belmartino",
+    "localizacion": { "pais": "Argentina", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Me anoto un amigo"
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Manjarrez",
+    "localizacion": { "pais": "Colombia", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Presente"
+  },
+  {
+    "nombre": "Melodi",
+    "apellido": "Balossino",
+    "localizacion": { "pais": "Argentina", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Nadie se arrepiente de ser valiente!"
+  },
+  {
+    "nombre": "Keny",
+    "apellido": "Espinoza",
+    "localizacion": { "pais": "Perú", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Seguir cuando crees que no puedes, es lo que te hace diferente a los demás."
+  },
+  {
+    "nombre": "Anderson",
+    "apellido": "Ruiz Gomez",
+    "localizacion": { "pais": "Colombia", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "Whatever it takes"
+  },
+  {
+    "nombre": "Pablo",
+    "apellido": "Lopez",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Corrientes",
+      "ciudad": "Capital"
+    },
+    "contacto": "",
+    "mensaje": "La perseverancia todo lo alcanza."
+  },
+  {
+    "nombre": "Luisa",
+    "apellido": "Barrios",
+    "localizacion": { "pais": "Argentina", "estado": "", "ciudad": "" },
+    "contacto": "",
+    "mensaje": "nada por aquí... nada por allá..."
+  },
+  {
+    "nombre": "Genaro",
+    "apellido": "Cura",
+    "localizacion": {
+      "pais": "Argentina",
+      "Entre rios": "",
+      "ciudad": "La paz"
+    },
+    "contacto": "",
+    "mensaje": ":)"
+  },
+  {
+    "nombre": "Sergio Dario",
+    "apellido": "Aguilar",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Buenos Aires",
+      "ciudad": "Zarate"
+    },
+    "contacto": "https://www.linkedin.com/in/sergio-dario-aguilar-1a78a5b5/",
+    "mensaje": "Sin sacrificio no hay Victoria"
+  },
+  {
+    "nombre": "Javier",
+    "apellido": "Lopez",
+    "localizacion": {
+      "pais": "Colombia",
+      "estado": "Antioquia",
+      "ciudad": "Itagui"
+    },
+    "contacto": "",
+    "mensaje": ""
+  },
+  {
+    "nombre": "Agustin",
+    "apellido": "Kainer",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Corrientes"
+    },
+    "contacto": "",
+    "mensaje": ""
+  },
+  {
+    "nombre": "Camila",
+    "apellido": "Castro",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Buenos Aires",
+      "mensaje": "Ningun mar en calma hizo experto a un marinero"
+    },
+    "contacto": "",
+    "mensaje": ""
+  },
+  {
+    "nombre": "Franco",
+    "apellido": "Garcia",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Sta. Fe, Rosario",
+      "mensaje": "La prisión más difícil de escapar es tu mente, no dejes que te encierre en una celda"
+    },
+    "contacto": "",
+    "mensaje": ""
+  },
+  {
+    "nombre": "Agustin",
+    "apellido": "Kainer",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Corrientes",
+      "mensaje": "Nunca dejes de intentar"
+    },
+    "contacto": "",
+    "mensaje": ""
+  },
+  {
+    "nombre": "Rogelio",
+    "apellido": "Menco",
+    "localizacion": {
+      "pais": "Colombia",
+      "estado": "Sincelejo",
+      "mensaje": "Con calma y pasiencia se llega al final de la meta"
+    },
+    "contacto": "",
+    "mensaje": ""
+  },
+  {
+    "nombre": "Maria Virginia",
+    "apellido": "Catsillo",
+    "localizacion": {
+      "pais": "Argentina",
+      "estado": "Mendoza",
+      "mensaje": "No importa cuántos errores cometas o cuán lento progreses, todavía estás muy por delante de todos los que no lo intentan"
+    },
+    "contacto": "",
+    "mensaje": ""
+  }
+]
